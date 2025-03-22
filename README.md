@@ -13,9 +13,7 @@ eGrocery Store is a modern and responsive eCommerce website designed to provide 
 - 💳 **Secure Checkout (Upcoming)**: Integrate payment gateways for hassle-free transactions.  
 
 ## 🛠️ Technologies Used  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Icons & Fonts**: FontAwesome, Google Fonts  
-- **Future Enhancements**: Django/Flask for backend, Stripe/PayPal for payments  
+- **Frontend**: HTML, CSS, JavaScript   
 
 ## 📂 Project Structure   
 
